@@ -1,12 +1,11 @@
-.cim{
-    font-size: 50px;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: grey;
-    border: solid;
-    border-color: grey;
-    border-radius: 10px;  
-}
 body{
     background-color: lightgray;
+}
+
+.gombok{
+    text-decoration: none; color: black; font-size: 30px; font-family: 'Courier New', Courier, monospace; margin-left: 15px;
+}
+
+.gombok2{
+    text-decoration: none; color: black; font-size: 30px; font-family: 'Courier New', Courier, monospace; margin-left: 40px;
 }
